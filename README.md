@@ -21,6 +21,8 @@
 
 Apaixonado por tecnologia, games e por mudar a vida das pessoas através da programação.
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <!-- ### Últimos videos:
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
 - [O que estudar para se tornar um desenvolvedor front-end? 2021](https://youtu.be/Ab-kGzlCCWI)<br/>
