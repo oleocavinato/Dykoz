@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo, conhecido também como Dykoz! 🖐️
+## Olá! Eu sou o Leonardo Cavinato! 🖐️
 
 <!--
 **[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
